@@ -30,6 +30,16 @@ yarn add @torch-finance/v1-sdk@0.0.39
 
 ## Quick Start
 
+To run the example below:
+```bash
+npm run dev
+```
+
+or
+
+```bash
+yarn dev
+```
 Below is a quick example of how to set up and use the Torch Finance SDK to perform a swap.
 
 ```typescript
