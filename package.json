@@ -6,11 +6,8 @@
     "dev": "ts-node src/index.ts"
   },
   "devDependencies": {
-    "@torch-finance/v1-sdk": "*",
+    "@torch-finance/v1-sdk": "0.0.39",
     "@types/node": "^22.5.1",
     "typescript": "^5.5.4"
-  },
-  "resolutions": {
-    "@torch-finance/v1-sdk": "portal:/Users/waterson/Documents/TorchLabs/monorepo/@sdks/v1-sdk"
   }
 }
