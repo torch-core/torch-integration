@@ -151,5 +151,5 @@ const buildResult = await torchSDK.swaps.buildSwap({
   ...swapParams,
   userAddress: "USER_ADDRESS", // User's wallet address
 });
-console.log("Build Swap Result:", buildResult); // buildResult would be TxParams type
+console.log("Build Swap Result:", buildResult); // buildResult would be TxParam type
 ```
