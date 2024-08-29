@@ -20,14 +20,12 @@ To install the Torch Finance SDK, use npm or yarn:
 
 ```bash
 npm install @torch-finance/v1-sdk@0.0.39
-npm install
 ```
 
 or
 
 ```bash
 yarn add @torch-finance/v1-sdk@0.0.39
-yarn
 ```
 
 ## Quick Start
